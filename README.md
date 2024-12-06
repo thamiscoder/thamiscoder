@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá! Me chamo Thamiris Oliveira!</h1>
 👩🏽‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (1/5);<br>
-😎 Estou aprendendo HTML e CSS;<br>
+😎 Estou aprendendo HTML, CSS e JavaScript;<br>
 😍 Completamente apaixonada por programação!
 <br><br>
 </div>
