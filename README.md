@@ -66,12 +66,12 @@ Meu objetivo é aprofundar meus conhecimentos em desenvolvimento full stack, pri
 <table>
 <tr>
 
-<td width="25%">
+<td width="33%">
 
 ### [🍔 DevBurger](https://github.com/thamiscoder/DevBurger)
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?logo=javascript)
 
 Sistema de pedidos para hamburgueria desenvolvido com React.
 
@@ -82,9 +82,9 @@ Sistema de pedidos para hamburgueria desenvolvido com React.
 
 ### [💼 Meu Portfólio](https://github.com/thamiscoder/meu_portifolio)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-20232A?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-20232A?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?logo=javascript)
 
 Portfólio pessoal desenvolvido para apresentar meus projetos e habilidades.
 
@@ -94,9 +94,9 @@ Portfólio pessoal desenvolvido para apresentar meus projetos e habilidades.
 
 ### [⏳ Projeto Fokus](https://github.com/thamiscoder/Projeto-Fokus)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-20232A?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-20232A?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?logo=javascript)
 
 Aplicação baseada na técnica Pomodoro para foco e produtividade.
 
@@ -133,20 +133,6 @@ Aplicação baseada na técnica Pomodoro para foco e produtividade.
     <td>Organização de repositórios, documentação, commits e evolução de projetos no GitHub.</td>
   </tr>
 </table>
-
----
-
-## Estatísticas
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thamiscoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiscoder&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
-
-</div>
 
 ---
 
