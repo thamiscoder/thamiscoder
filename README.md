@@ -5,11 +5,11 @@
 ### Desenvolvedora em formação  
 #### JavaScript | Python | APIs
 
+</div>
+
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na tecnologia com foco em desenvolvimento web, interfaces responsivas, lógica de programação e evolução gradual para back-end, Python e criação/consumo de APIs.
 
 Atualmente, desenvolvo projetos práticos para consolidar fundamentos, melhorar minha organização de código e transformar estudos em aplicações cada vez mais completas.
-
-</div>
 
 ---
 
@@ -68,6 +68,8 @@ Meu objetivo é aprofundar meus conhecimentos em desenvolvimento full stack, pri
 
 <td width="33%">
 
+<div align="center">
+
 ### [🍔 DevBurger](https://github.com/thamiscoder/DevBurger)
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
@@ -75,10 +77,14 @@ Meu objetivo é aprofundar meus conhecimentos em desenvolvimento full stack, pri
 
 Sistema de pedidos para hamburgueria desenvolvido com React.
 
+</div>
+
 </td>
 
 
 <td width="33%">
+
+<div align="center">
 
 ### [💼 Meu Portfólio](https://github.com/thamiscoder/meu_portifolio)
 
@@ -88,9 +94,13 @@ Sistema de pedidos para hamburgueria desenvolvido com React.
 
 Portfólio pessoal desenvolvido para apresentar meus projetos e habilidades.
 
+</div> 
+
 </td>
 
 <td width="33%">
+
+<div align="center">
 
 ### [⏳ Projeto Fokus](https://github.com/thamiscoder/Projeto-Fokus)
 
@@ -99,6 +109,8 @@ Portfólio pessoal desenvolvido para apresentar meus projetos e habilidades.
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?logo=javascript)
 
 Aplicação baseada na técnica Pomodoro para foco e produtividade.
+
+</div>
 
 </td>
 
